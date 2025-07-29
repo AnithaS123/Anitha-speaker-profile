@@ -25,8 +25,8 @@ Finalist - AI World Series Awards | Speaker at AWS Summit, Microsoft Copilot Hor
 | AI-Powered Cloud Migrations with Copilot | Microsoft AI Copilot Horizons | 2025 |
 | mportance of AI Skills in Today’s Landscape | AWS Summit Dubai | 2025 |
 | Building First AI Applications in the Cloud | University Panel | 2025 |
-| UnderstanUnderstanding MCP in AWS: How Model Context Protocol Shapes AI Interactions
- | AWS Women's Meetup | 2025 |
+| Understanding MCP in AWS: How Model Context Protocol Shapes AI Interactions | AWS Women's Meetup | 2025 |
+
 
 👉 [View all talks »](talks/README.md)
 
