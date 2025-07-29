@@ -15,7 +15,7 @@ Finalist - AI World Series Awards | Speaker at AWS Summit, Microsoft Copilot Hor
 - AI Governance & Safety
 - Multi-Cloud Architecture (Azure | AWS | GCP)
 - Generative AI & Responsible AI
-- Cloud Migrations with AI Copilot
+- Cloud Migrations
 
 ---
 
