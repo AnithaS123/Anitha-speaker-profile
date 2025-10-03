@@ -2,11 +2,11 @@
 
 
 
-# 🌟 Anitha Senthilnathan – Cloud & AI Solutions Architect | Speaker | Innovator
+# 🌟 Anitha Senthilnathan – AI & Cloud Solutions Architect | Speaker | Innovator
 
 ## Speaker @ Tech Conferences
 🎤 Official Speaker Portfolio of Anitha Senthilnathan for Tech Conference. Showcasing talks on Agentic AI, Cloud Migrations, AI Governance &amp; Multi-Cloud Innovation.
-Finalist - AI World Series Awards | Speaker at AWS Summit, Microsoft Copilot Horizons, University AI Talks
+Finalist - AI World Series Awards | Speaker at AWS Summit, Microsoft Copilot Horizons, University AI Talks, AI Safety UAE, AWS Community Day UAE 2025
 
 ---
 
@@ -14,7 +14,7 @@ Finalist - AI World Series Awards | Speaker at AWS Summit, Microsoft Copilot Hor
 - Agentic AI Systems
 - AI Governance & Safety
 - Multi-Cloud Architecture (Azure | AWS | GCP)
-- Generative AI & Responsible AI
+- Generative AI 
 - Cloud Migrations
 
 ---
@@ -23,9 +23,13 @@ Finalist - AI World Series Awards | Speaker at AWS Summit, Microsoft Copilot Hor
 | 🎯 Topic | 🏢 Event | 📅 Year |
 |---|---|---|
 | AI-Powered Cloud Migrations with Copilot | Microsoft AI Copilot Horizons | 2025 |
-| mportance of AI Skills in Today’s Landscape | AWS Summit Dubai | 2025 |
+| Importance of AI Skills in Today’s Landscape | AWS Summit Dubai | 2025 |
 | Building First AI Applications in the Cloud | University Panel | 2025 |
 | Understanding MCP in AWS: How Model Context Protocol Shapes AI Interactions | AWS Women's Meetup | 2025 |
+| From Click to Action: Building Smart Event-Driven Workflows with AWS Lambda and Eventbridge
+| AWS Cloud sec community | 2025 |
+| AI Safety in the Age of Agentic Systems: Policies, Pitfalls, and Prevention.| AI Safety UAE communiy | 2025 |
+| AI Safety in the Age of Agentic Systems: Policies, Pitfalls, and Prevention.| AI Safety UAE communiy | 2025 |
 
 
 👉 [View all talks »](talks/README.md)
@@ -54,5 +58,5 @@ Finalist - AI World Series Awards | Speaker at AWS Summit, Microsoft Copilot Hor
 ---
 
 ### 📬 Contact Me
-- 📧 hani2023.zenith@gmail.com
+- 📧 Hani2023.zenith@gmail.com
 - 🌐 [LinkedIn](https://www.linkedin.com/in/anitha-senthilnathan/)
