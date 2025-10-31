@@ -35,10 +35,7 @@ Finalist - AI World Series Awards | Speaker at AWS Summit, Microsoft Copilot Hor
 |---|---|---|
 | AI-Powered Cloud Migrations with Copilot | Microsoft AI Copilot Horizons | 2025 |
 | Importance of AI Skills in Today’s Landscape | AWS Summit Dubai | 2025 |
-| Building First AI Applications in the Cloud | University Panel | 2025 |
-| Understanding MCP in AWS: How Model Context Protocol Shapes AI Interactions | AWS Women's Meetup | 2025 |
 | From Click to Action: Building Smart Event-Driven Workflows with AWS Lambda and Eventbridge | AWS CloudSec community | 2025 |
-| AI Safety in the Age of Agentic Systems: Policies, Pitfalls, and Prevention.| AI Safety UAE community | 2025 |
 | Architecting Safe Intelligence: Governance and Guardrails for Agentic AI Systems | AWS Community Day UAE | 2025 |
 
 👉 [View all talks »](./talks.md)
@@ -49,7 +46,7 @@ Finalist - AI World Series Awards | Speaker at AWS Summit, Microsoft Copilot Hor
 <!-- - AI Whitepaper: ["Agentic AI for Enterprise Workflows"](publications/agentic_ai_whitepaper.md) -->
 <!-- - Blog: [AI Governance Explained](https://yourblog.com) -->
 - **AWS Community Builder (2025)** – Focused on the *Security* category, contributing best practices for secure cloud deployments.
-- **Speaker at Tech Conferences** – Delivered sessions at AWS Summit UAE, Microsoft AI Copilot Horizons, AWS Community Day UAE 2025 and AI Safety UAE on *AI-led cloud migrations, Agentic AI,* and *cloud security*.
+- **Speaker at Tech Conferences** 
 - **Content Creator** – Published articles on *application security, cell-based architecture,*  on platforms like [LinkedIn](https://www.linkedin.com/in/anitha-senthilnathan/recent-activity/articles/), [Medium](https://medium.com/@hani2023.zenith), and [Dev.to](https://dev.to/anitha_senthilnathan).
 - **Mentor** – Guiding aspiring professionals in *cloud* and *AI*, with a focus on inclusive and diverse tech leadership.
 - **Community Contributor** – Active in **AWS Community**, **Microsoft MVP circles**, **Cloud-Connect**, and AI Quantum Nexus fostering collaboration and innovation.
@@ -77,8 +74,7 @@ Finalist - AI World Series Awards | Speaker at AWS Summit, Microsoft Copilot Hor
 
 ## 🏆 Achievements & Recognition
 - **Finalist – AI World Series Awards 2025** (*BridgeFood: AI for Global Food Security*)  
-- **Speaker – Microsoft AI Copilot Horizons 2025**  
-- **Speaker – AWS Summit 2025** (*Importance of AI Skills in Today’s Landscape*)  
+- **Speaker – AWS Summit 2025 Microsoft AI Copilot Horizons 2025**  
 - **Mentee – AWS She Builds Mentorship Program 2025**  
 - **Lead Architect – SAP Agentic AI Platform Initiative**  
 
